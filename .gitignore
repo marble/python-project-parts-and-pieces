@@ -3,3 +3,4 @@
 *NOT_VERSIONED*
 .idea
 *.py(c|o)
+.cache

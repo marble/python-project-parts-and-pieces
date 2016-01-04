@@ -1,0 +1,7 @@
+docopt
+futures
+msgpack-python
+pytest
+python-dateutil
+pytz
+tldextract
